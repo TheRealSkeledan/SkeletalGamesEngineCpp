@@ -23,6 +23,6 @@ The C++ version of Skeletal Games Engine, designed to give a good start to peopl
 * Haxe is planned to be in development later.
 
 ## Planned Future Updates
-* All of the code will be Created
+* All of the code will be created
 
 * C++ compiler will be added along with it
